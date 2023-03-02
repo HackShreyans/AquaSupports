@@ -15,7 +15,7 @@ const Footer = () => {
               </p>
               <ul>
                 <li>
-                  Address: Santosh singh SH-8/31-H Shivpur , Varanasi , Uttar
+                  Address: Anuarg singh S1/118K chhuppepur central jail road , Varanasi , Uttar
                   Pradesh.
                 </li>
                 <li>Email Address: aquacares360@gmail.com</li>
