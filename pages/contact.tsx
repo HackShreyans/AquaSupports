@@ -107,8 +107,8 @@ const contactus = () => {
             <h2 className="fs-4 fw-bold" style={{ marginTop: 10 }}>
               Address
             </h2>
-            Santosh singh SH-8/31-H <br />
-            Shivpur , Varanasi , <br />
+            Anuarg singh S1/118K<br />
+            chuppepur colony Shivpur , Varanasi , <br />
             Uttar Pradesh.
             <br />
             Phone:+91 8299521580
