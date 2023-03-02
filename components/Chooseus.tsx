@@ -40,7 +40,7 @@ const Chooseus = () => {
             />
             <h2 className="fs-4 fw-bolder mt-4">Drinking Water Systems</h2>
             <p>
-              DrinkPrime is India's smartest water purifier on rent trusted by 1
+              DrinkPrime is India&lsquo;s smartest water purifier on rent trusted by 1
               Lakh+ users. It is completely customized based on the input water
               quality in your home.
             </p>
