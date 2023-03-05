@@ -121,11 +121,14 @@ const Slider = () => {
           data-bs-target="#carouselExampleIndicators"
           data-bs-slide="next"
         >
+        
           <span className="carousel-control-next-icon" aria-hidden="true">
             <i className="bi fs-4 text-dark bi-chevron-right" />
           </span>
+         
           <span className="visually-hidden">Next</span>
         </button>
+       
       </div>
     </div>
   );

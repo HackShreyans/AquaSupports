@@ -39,6 +39,9 @@ const Navbar = () => {
               <li className="float-start p-3 px-4">
                 <Link href="contact">Contact Us</Link>
               </li>
+              <li className="float-start p-3 px-4">
+              Call Us <a style={{color:'blue'}}href="tel:+918299521580">8299521580</a>.
+              </li>
               <li className="float-end d-none d-md-block pt-2">
                 <button className="btn fw-bolder px-4 py-2 btn-primary">
                   Send a Request
